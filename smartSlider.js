@@ -1,14 +1,14 @@
 /*
-* smartSlider v2 - (c) Ralf Hortt, freely distributable under the terms of the MIT license.
+* smartSlider v2.0.1 - (c) Ralf Hortt, freely distributable under the terms of the MIT license.
 * horttcore.de
 */
 jQuery.fn.smartSlider = function(options) {
 
 	var defaults = {
 		closedClass : 'closed',
-		closeText : false,
+		closedText : false,
 		openedClass : 'opened',
-		openText : false,
+		openedText : false,
 		scrollTo : false,
 		scrollSpeed: 'slow',
 		speed : 'fast',
